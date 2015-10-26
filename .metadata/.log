@@ -1,0 +1,13 @@
+!SESSION 2015-10-23 17:26:55.599 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_31
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-23 17:28:37.802
+!MESSAGE System property http.proxyHost is not set but should be proxyv.dpn.deere.com.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-23 17:28:37.806
+!MESSAGE System property http.proxyPort is not set but should be 81.
